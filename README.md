@@ -24,4 +24,4 @@ the raw data for one of them.
 
 Then in the FLPUCI project run pre_processing.py script to preprocess the raw data.
 
-Finally, run main.py to run the experiments.
+Finally, run main.py for the experiments.
