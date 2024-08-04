@@ -4,9 +4,12 @@ Datasets used in the FLPUCI Framework
 This repository includes the following datasets:
 * San Francisco Cabs (sanfranciscocabs)
 * Roma Taxi (romataxi)
+* Sumo Ipanema (sumo_ipanema)
 * Next Generation Simulation (ngsim)
 
-### San Francisco Cabs (sanfranciscocabs) and Roma Taxi (romataxi)
+To unpack these dataset, run the unpack.sh script or
+
+### San Francisco Cabs (sanfranciscocabs), Roma Taxi (romataxi), and Sumo Ipanema
 
 Within these dataset directories, there is a subdirectory named f1_raw_data that contains tar.xz files.
 
