@@ -1,0 +1,11 @@
+*/f1_raw_data/*.csv
+*/f1_raw_data/*.txt
+*/f2_data/*
+*/f3_logit/*
+*/f4_entry_exit/*
+*/f5_interval_entry_exit/*
+*/f6_contact_time/*
+*/f7_metrics/*
+*/f8_checkpoints/Centralized/*/c*
+*/f8_checkpoints/FL-based/*/*/round*
+
