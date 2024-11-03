@@ -1,5 +1,6 @@
 */f1_raw_data/*.csv
 */f1_raw_data/*.txt
+*/f1_raw_data/node*
 */f2_data/*
 */f3_logit/*
 */f4_entry_exit/*
